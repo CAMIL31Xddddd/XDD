@@ -60,7 +60,7 @@
 				"minCount": 1,
 				"enchantments": [
 					{
-						"enchantment": "minecraft:thorns",
+						"enchantment": "spartanweaponry:propulsion",
 						"enchantmentLevel": 1
 					}
 				],

@@ -83,6 +83,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2025-07-30 01:10:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-07-30 00:21:07 +0000"
@@ -167,6 +173,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-30 01:02:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-30 00:37:14 +0000"
@@ -197,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-30 00:58:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-07-29 16:29:16 +0000"
@@ -212,6 +230,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-30 00:40:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_at_least_9_emerald": "2025-07-30 00:59:48 +0000"
     },
     "done": true
   },
@@ -237,7 +261,9 @@
     "criteria": {
       "cooked_porkchop": "2025-07-30 00:47:25 +0000",
       "cooked_mutton": "2025-07-30 00:38:31 +0000",
+      "apple": "2025-07-30 01:01:54 +0000",
       "mutton": "2025-07-30 00:37:37 +0000",
+      "beetroot": "2025-07-30 01:00:48 +0000",
       "cooked_chicken": "2025-07-30 00:42:20 +0000"
     },
     "done": false
@@ -344,6 +370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 00:59:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-30 00:40:29 +0000"
@@ -374,6 +406,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_leggings": "2025-07-30 01:07:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2025-07-30 00:29:35 +0000"
@@ -389,6 +427,12 @@
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-07-30 00:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-07-30 00:58:56 +0000"
     },
     "done": true
   },
@@ -433,6 +477,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-30 00:37:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stonebrick": "2025-07-30 01:03:24 +0000"
     },
     "done": true
   },
@@ -544,6 +594,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-07-30 00:58:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2025-07-30 00:37:14 +0000"
@@ -552,6 +608,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "vindicator": "2025-07-30 01:04:58 +0000",
       "skeleton": "2025-07-30 00:52:56 +0000",
       "zombie": "2025-07-30 00:27:08 +0000"
     },
@@ -653,6 +710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_stonebrick": {
+    "criteria": {
+      "has_stonebrick": "2025-07-30 01:03:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-30 00:40:29 +0000"
@@ -662,6 +725,12 @@
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-30 00:26:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-07-30 01:03:24 +0000"
     },
     "done": true
   }

@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-07-30 01:37:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-07-30 00:28:45 +0000"
@@ -242,6 +248,12 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-07-30 01:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log2": "2025-07-30 01:45:35 +0000"
     },
     "done": true
   },
@@ -332,6 +344,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_log": "2025-07-30 01:46:14 +0000"
     },
     "done": true
   },

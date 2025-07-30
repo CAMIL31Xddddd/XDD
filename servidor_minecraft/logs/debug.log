@@ -22563,3 +22563,144 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [01:36:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
 [01:37:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...
 [01:37:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:38:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set own game mode to Survival Mode]
+[01:38:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
+[01:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set game difficulty to Easy]
+[01:38:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[01:38:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set game difficulty to Peaceful]
+[01:39:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:39:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
+[01:39:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:39:55] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set own game mode to Creative Mode]
+[01:40:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set game difficulty to Easy]
+[01:40:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:41:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [15, 4] in dimension 0 (overworld) while populating chunk [15, 3], causing cascading worldgen lag.
+[01:41:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [15, 6] in dimension 0 (overworld) while populating chunk [15, 3], causing cascading worldgen lag.
+[01:41:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [15, 5] in dimension 0 (overworld) while populating chunk [15, 3], causing cascading worldgen lag.
+[01:41:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 4] in dimension 0 (overworld) while populating chunk [15, 3], causing cascading worldgen lag.
+[01:41:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:41:44] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 5] in dimension 0 (overworld) while populating chunk [15, 3], causing cascading worldgen lag.
+[01:41:44] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[01:42:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:42:40] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:42:40] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:42:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:43:13] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:43:13] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:43:13] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:43:13] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:43:13] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:43:13] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[01:43:13] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[01:43:13] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:43:13] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:43:13] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:43:15] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:43:15] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:59981] logged in with entity id 2349578 at (47.858309624095476, 64.25220334025373, 204.07314032873887)
+[01:43:15] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[01:43:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[01:43:15] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/2349578, l='world', x=47.86, y=64.25, z=204.07] connected. Sending ping
+[01:43:15] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:43:30] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:43:30] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:43:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:09] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:44:09] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:44:09] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:44:10] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:44:10] [Netty Epoll Server IO #2/INFO] [FML]: Client protocol version 2
+[01:44:10] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[01:44:10] [Netty Epoll Server IO #2/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[01:44:10] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: WAITINGCACK
+[01:44:10] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:44:10] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: COMPLETE
+[01:44:12] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:44:12] [Netty Epoll Server IO #2/DEBUG] [FML]:   Next: DONE
+[01:44:12] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:44:12] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:44:12] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:58811] logged in with entity id 2369761 at (47.858309624095476, 64.25220334025373, 204.07314032873887)
+[01:44:12] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[01:44:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[01:44:12] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/2369761, l='world', x=47.86, y=64.25, z=204.07] connected. Sending ping
+[01:44:12] [Netty Epoll Server IO #2/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:44:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:44:27] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:44:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:44:59] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:44:59] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:44:59] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:44:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:44:59] [Netty Epoll Server IO #3/INFO] [FML]: Client protocol version 2
+[01:44:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[01:44:59] [Netty Epoll Server IO #3/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[01:44:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: WAITINGCACK
+[01:44:59] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:44:59] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: COMPLETE
+[01:45:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:45:01] [Netty Epoll Server IO #3/DEBUG] [FML]:   Next: DONE
+[01:45:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:45:01] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:45:01] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:54941] logged in with entity id 2390714 at (47.858309624095476, 64.25220334025373, 204.07314032873887)
+[01:45:01] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[01:45:01] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[01:45:01] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/2390714, l='world', x=47.86, y=64.25, z=204.07] connected. Sending ping
+[01:45:01] [Netty Epoll Server IO #3/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:45:09] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:16] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:45:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:45:39] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:45:39] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:45:39] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:45:40] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:45:40] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[01:45:40] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[01:45:40] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[01:45:40] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: WAITINGCACK
+[01:45:40] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:45:40] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: COMPLETE
+[01:45:41] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:45:41] [Netty Epoll Server IO #0/DEBUG] [FML]:   Next: DONE
+[01:45:41] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:45:41] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:45:41] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:43075] logged in with entity id 2404275 at (47.858309624095476, 64.25220334025373, 204.07314032873887)
+[01:45:41] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[01:45:41] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[01:45:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:45:41] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:45:41] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/2404275, l='world', x=47.86, y=64.25, z=204.07] connected. Sending ping
+[01:45:42] [Netty Epoll Server IO #0/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:45:54] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:45:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:45:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:46:39] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world
+[01:46:40] [Server thread/TRACE] [FML]: Handshake channel activating
+[01:46:40] [Server thread/DEBUG] [FML]: FMLHandshakeServerState: null->FMLHandshakeServerState$1:START
+[01:46:40] [Server thread/DEBUG] [FML]:   Next: HELLO
+[01:46:41] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ClientHello->FMLHandshakeServerState$2:HELLO
+[01:46:41] [Netty Epoll Server IO #1/INFO] [FML]: Client protocol version 2
+[01:46:41] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $ModList:58 mods->FMLHandshakeServerState$2:HELLO
+[01:46:41] [Netty Epoll Server IO #1/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[01:46:41] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: WAITINGCACK
+[01:46:41] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{2}->FMLHandshakeServerState$3:WAITINGCACK
+[01:46:41] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: COMPLETE
+[01:46:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{3}->FMLHandshakeServerState$4:COMPLETE
+[01:46:42] [Netty Epoll Server IO #1/DEBUG] [FML]:   Next: DONE
+[01:46:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{4}->FMLHandshakeServerState$5:DONE
+[01:46:42] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[01:46:42] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:51993] logged in with entity id 2426291 at (47.858309624095476, 64.25220334025373, 204.07314032873887)
+[01:46:42] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[01:46:42] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[01:46:42] [Server thread/WARN] [net.minecraft.entity.EntityTrackerEntry]: Fetching addPacket for removed entity
+[01:46:42] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/2426291, l='world', x=47.86, y=64.25, z=204.07] connected. Sending ping
+[01:46:42] [Netty Epoll Server IO #1/DEBUG] [FML]: FMLHandshakeServerState: $HandshakeAck:{5}->FMLHandshakeServerState$5:DONE
+[01:46:57] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[01:46:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[01:47:24] [Server thread/DEBUG] [FML]: Gathering id map for writing to world save world

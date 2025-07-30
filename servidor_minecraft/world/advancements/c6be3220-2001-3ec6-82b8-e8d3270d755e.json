@@ -65,21 +65,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_brick": "2025-07-30 02:11:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-07-30 01:18:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-07-30 00:35:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-07-30 01:18:36 +0000"
     },
     "done": true
   },
@@ -119,15 +125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/iron_block": {
-    "criteria": {
-      "has_at_least_9_iron_ingot": "2025-07-30 00:57:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-30 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_at_least_9_iron_ingot": "2025-07-30 00:57:11 +0000"
     },
     "done": true
   },
@@ -191,15 +197,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "nocubessrparmory:advplasmatorch": {
     "criteria": {
-      "has_yellow_flower": "2025-07-30 01:37:58 +0000"
+      "advplasmatorch": "2025-07-30 02:20:55 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-07-30 00:28:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2025-07-30 01:37:58 +0000"
     },
     "done": true
   },
@@ -227,21 +239,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-07-30 01:22:53 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-07-30 00:31:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-07-30 01:22:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2025-07-30 00:26:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2025-07-30 00:35:44 +0000"
     },
     "done": true
   },
@@ -257,12 +275,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_wool": {
-    "criteria": {
-      "has_white_wool": "2025-07-30 00:35:44 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
@@ -275,9 +287,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_axe": {
+  "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
-      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+      "has_planks": "2025-07-30 02:10:38 +0000"
     },
     "done": true
   },
@@ -292,6 +304,12 @@
       "carrot": "2025-07-30 01:16:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
@@ -323,13 +341,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bucket": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-30 01:31:52 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/bucket": {
+  "minecraft:recipes/building_blocks/dark_oak_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
     },
@@ -338,12 +368,6 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2025-07-30 00:57:11 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/iron_boots": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
     },
     "done": true
   },
@@ -356,6 +380,12 @@
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-30 01:54:17 +0000"
     },
     "done": true
   },
@@ -493,21 +523,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/minecart": {
-    "criteria": {
-      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-07-30 00:31:34 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-07-30 01:22:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-07-30 02:36:04 +0000"
     },
     "done": true
   },
@@ -525,15 +561,15 @@
     },
     "done": true
   },
-  "minecraft:adventure/sleep_in_bed": {
-    "criteria": {
-      "slept_in_bed": "2025-07-30 00:27:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/purple_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-30 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-07-30 00:27:14 +0000"
     },
     "done": true
   },
@@ -573,6 +609,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_brick": "2025-07-30 02:11:27 +0000"
+    },
+    "done": true
+  },
   "nocubessrpnests:advsrpnestsaddonroot": {
     "criteria": {
       "advsrpnestsaddonroot": "2025-07-30 00:19:38 +0000"
@@ -606,6 +648,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-07-30 00:55:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-07-30 01:55:29 +0000"
     },
     "done": true
   },
@@ -645,15 +693,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/black_bed": {
-    "criteria": {
-      "has_black_wool": "2025-07-30 00:46:10 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2025-07-30 00:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-07-30 00:46:10 +0000"
     },
     "done": true
   },
@@ -666,6 +714,12 @@
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-30 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/orange_dye_from_orange_tulip": {
+    "criteria": {
+      "has_red_flower": "2025-07-30 02:36:10 +0000"
     },
     "done": true
   },
@@ -726,9 +780,21 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:10:38 +0000"
+    },
+    "done": true
+  },
   "nocubessrpsurvival:advparasitesurvivalroot": {
     "criteria": {
       "advparasitesurvivalroot": "2025-07-30 00:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_brick": "2025-07-30 02:11:27 +0000"
     },
     "done": true
   },
@@ -762,15 +828,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-07-30 00:31:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed": {
     "criteria": {
       "has_brown_wool": "2025-07-30 00:35:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_stairs": {
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
-      "has_cobblestone": "2025-07-30 00:31:34 +0000"
+      "has_planks": "2025-07-30 02:10:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-30 02:10:38 +0000"
     },
     "done": true
   },
@@ -828,15 +906,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_brick_stairs": {
-    "criteria": {
-      "has_stonebrick": "2025-07-30 01:14:17 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/light_gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-30 00:26:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stonebrick": "2025-07-30 01:14:17 +0000"
     },
     "done": true
   },

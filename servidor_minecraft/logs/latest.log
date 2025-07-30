@@ -920,3 +920,59 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [00:27:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
 [00:27:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <D280607> xd
 [00:27:19] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:27:25] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD was slain by Assimilated Sheep
+[00:27:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <D280607> ayuda
+[00:27:32] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 was slain by Assimilated Sheep
+[00:27:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 was slain by Assimilated Sheep
+[00:27:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:27:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...
+[00:27:57] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 was slain by MoncaiTheBig007
+[00:28:03] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 was slain by MoncaiTheBig007
+[00:28:15] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set game difficulty to Peaceful]
+[00:29:09] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:29:17] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 tried to swim in lava
+[00:29:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD has made the advancement [Stone Age]
+[00:29:45] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD has made the advancement [Getting an Upgrade]
+[00:30:49] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: [XDDDDD: Set game difficulty to Hard]
+[00:31:34] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 has made the advancement [Stone Age]
+[00:31:58] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
+[00:32:06] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD was slain by Zombie miner
+[00:32:14] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:32:18] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 tried to swim in lava
+[00:32:20] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...
+[00:32:26] [Server thread/INFO] [net.minecraft.network.NetHandlerPlayServer]: XDDDDD lost connection: Timed out
+[00:32:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD left the game
+[00:32:28] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 tried to swim in lava
+[00:32:46] [Netty Epoll Server IO #0/INFO] [FML]: Client protocol version 2
+[00:32:46] [Netty Epoll Server IO #0/INFO] [FML]: Client attempting to join with 58 mods : ctgui@1.0.0,cgm@0.15.3,coralreef@2.0,creativecoredummy@1.0.0,jei@4.16.1.1013,futuremc@0.2.6,netherbackport@1.0.0,falling_tree@2.4.0,mcp@9.42,nocubessrpnests@3.0.0,artifacts@1.12.2-1.2.4,sereneseasons@1.2.18,forgelin@1.8.4,surge@2.0.79,foamfixcore@7.7.4,uteamcore@2.2.5.339,waila@1.8.26,tlauncher_custom_cape_skin@1.4,traverse@1.6.0,crafttweaker@4.1.20,nocubessrpsurvival@3.0.0,forge@14.23.5.2860,orelib@3.6.0.1,dsurround@@VERSION@,duneons@1.4,minecraft@1.12.2,nocubessrparmory@3.0.0,usefulbackpacks@1.5.4.85,enchdesc@1.1.15,crafttweakerjei@2.0.3,silentlib@3.0.13,baubles@1.5.2,creativecore@1.10.0,spartanshields@1.5.5,xaerominimap@25.0.0,gravestone@1.10.3,securitycraft@v1.9.12,spartanhudbaubles@1.0.0 Indev 1,libraryex@1.2.2,oreexcavation@1.4.150,better_diving@1.5.8,lostcities@2.0.22,FML@8.0.99.99,obfuscate@0.4.2,apexguns@0.1.2,srparasites@1.9.21,spartanweaponry@1.6.0,appleskin@1.0.14,xaerominimap_core@1.12.2-1.0,foamfix@@VERSION@,bookworm@1.12.2-2.5.2.1,charm@1.4,bettermineshafts@1.12.2-2.2.1,dynamictrees@1.12.2-0.9.29,netherex@2.2.5,playerrevive@1.0,swparasites@v3.1,overlast@0.0.2
+[00:32:48] [Server thread/INFO] [FML]: [Server thread] Server side modded connection established
+[00:32:48] [Server thread/INFO] [net.minecraft.server.management.PlayerList]: XDDDDD[/127.166.162.72:51011] logged in with entity id 425139 at (-203.20368752680042, 67.76636799395752, 281.3777168945784)
+[00:32:48] [Server thread/INFO] [dsurround]: Player [XDDDDD] connected with Dynamic Surroundings @VERSION@
+[00:32:48] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD joined the game
+[00:32:48] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/425139, l='world', x=-203.20, y=67.77, z=281.38] connected. Sending ping
+[00:33:24] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
+[00:33:26] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD was slain by Zombie miner
+[00:33:53] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...
+[00:33:56] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 was slain by D280607
+[00:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD is bleeding...
+[00:34:31] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...
+[00:34:33] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 was slain by Rupter
+[00:34:35] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD was slain by Assimilated Human
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [4, 8] in dimension 0 (overworld) while populating chunk [3, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [5, 8] in dimension 0 (overworld) while populating chunk [4, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [4, 7] in dimension 0 (overworld) while populating chunk [4, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [5, 7] in dimension 0 (overworld) while populating chunk [4, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [4, 6] in dimension 0 (overworld) while populating chunk [4, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [5, 6] in dimension 0 (overworld) while populating chunk [4, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [4, 9] in dimension 0 (overworld) while populating chunk [3, 8], causing cascading worldgen lag.
+[00:35:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:35:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 has made the advancement [Getting an Upgrade]
+[00:35:47] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:35:54] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 was slain by Assimilated Sheep
+[00:36:51] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: MoncaiTheBig007 is bleeding...

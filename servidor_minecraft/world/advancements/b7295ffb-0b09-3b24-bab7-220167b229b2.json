@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_at_least_9_coal": "2025-07-30 00:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/sign": {
     "criteria": {
       "has_planks": "2025-07-29 16:35:21 +0000"
@@ -164,6 +170,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-30 00:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2025-07-30 00:54:11 +0000"
     },
     "done": true
   },
@@ -223,6 +235,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-07-30 00:47:25 +0000",
       "cooked_mutton": "2025-07-30 00:38:31 +0000",
       "mutton": "2025-07-30 00:37:37 +0000",
       "cooked_chicken": "2025-07-30 00:42:20 +0000"
@@ -244,6 +257,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-07-30 00:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone": {
+    "criteria": {
+      "has_bone": "2025-07-30 00:53:12 +0000"
     },
     "done": true
   },
@@ -301,6 +320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_the_recipe": "2025-07-30 00:50:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-07-30 00:40:29 +0000"
@@ -355,6 +380,12 @@
     },
     "done": true
   },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "craft": "2025-07-30 00:48:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2025-07-30 00:29:35 +0000"
@@ -364,6 +395,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "beaches": "2025-07-30 00:39:46 +0000",
+      "plains": "2025-07-30 00:52:05 +0000",
       "river": "2025-07-30 00:39:32 +0000"
     },
     "done": false
@@ -520,6 +552,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "skeleton": "2025-07-30 00:52:56 +0000",
       "zombie": "2025-07-30 00:27:08 +0000"
     },
     "done": false

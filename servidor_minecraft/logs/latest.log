@@ -993,3 +993,30 @@ com.google.gson.JsonSyntaxException: Unknown recipe 'minecraft:trapdoor'
 [00:43:55] [Server thread/INFO] [Waila]: Player EntityPlayerMP['XDDDDD'/678294, l='world', x=-241.50, y=100.10, z=355.50] connected. Sending ping
 [00:47:10] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
 [00:47:16] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 was slain by Assimilated Sheep
+[00:48:07] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: XDDDDD has made the advancement [It Comes Back?]
+[00:52:05] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [9, 13] in dimension 0 (overworld) while populating chunk [9, 12], causing cascading worldgen lag.
+[00:52:05] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:52:27] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 is bleeding...
+[00:53:12] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <XDDDDD> -33 53 180
+[00:55:22] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: <D280607> duerman
+[00:55:46] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer]: D280607 has made the advancement [Acquire Hardware]
+[00:55:52] [Server thread/INFO] [Meson ASM]: Transforming ItemHandlerHelper
+[00:55:52] [Server thread/INFO] [Meson ASM]: Applying Transformation to method (Names [insertItem, insertItem, ] Descriptor (Lnet/minecraftforge/items/IItemHandler;Lnet/minecraft/item/ItemStack;Z)Lnet/minecraft/item/ItemStack; / (Lnet/minecraftforge/items/IItemHandler;Laip;Z)Laip;)
+[00:55:52] [Server thread/INFO] [Meson ASM]: Located method, patching...
+[00:55:52] [Server thread/INFO] [Meson ASM]: Located target ALOAD 0
+[00:55:52] [Server thread/INFO] [Meson ASM]: Patch result: true
+[00:57:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 16] in dimension 0 (overworld) while populating chunk [15, 16], causing cascading worldgen lag.
+[00:57:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [15, 17] in dimension 0 (overworld) while populating chunk [15, 16], causing cascading worldgen lag.
+[00:57:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:06] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 17] in dimension 0 (overworld) while populating chunk [15, 16], causing cascading worldgen lag.
+[00:57:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:06] [Server thread/WARN] [FML]: SRP: Nests Addon (by NoCube) loaded a new chunk [15, 26] in dimension 0 (overworld) while populating chunk [15, 25], causing cascading worldgen lag.
+[00:57:06] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:06] [Server thread/WARN] [net.minecraft.entity.EntityList]: Skipping Entity with id minecraft:
+[00:57:12] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [15, 29] in dimension 0 (overworld) while populating chunk [15, 28], causing cascading worldgen lag.
+[00:57:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:12] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 28] in dimension 0 (overworld) while populating chunk [15, 28], causing cascading worldgen lag.
+[00:57:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
+[00:57:12] [Server thread/WARN] [FML]: Minecraft Dungeons Mod loaded a new chunk [16, 29] in dimension 0 (overworld) while populating chunk [15, 28], causing cascading worldgen lag.
+[00:57:12] [Server thread/WARN] [FML]: Please report this to the mod's issue tracker. This log can be disabled in the Forge config.
